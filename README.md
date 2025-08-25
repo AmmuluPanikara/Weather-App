@@ -7,7 +7,8 @@ A weather forecasting app using OpenWeatherMap API to display real-time weather 
 - Responsive & user-friendly UI
 
 ## 📸 Screenshot
-![Weather App Screenshot](screenshot.png)
+<img width="1137" height="733" alt="Image" src="https://github.com/user-attachments/assets/a14a0fe5-f31c-486f-bc9f-164a72f0e5d0" />
+<img width="547" height="520" alt="Image" src="https://github.com/user-attachments/assets/c799f49e-9688-45d9-a3b7-a6723a014e23" />
 
 ## 🛠️ Tech Stack
 - HTML5
